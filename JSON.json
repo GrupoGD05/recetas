@@ -1,6 +1,5 @@
 [
   {
-    "id":1,
     "name": "Receta de Pastel de remolacha salado",
     "img": "https://www.hola.com/imagenes/cocina/recetas/20200123158883/tarta-salada-de-remolacha-con-queso-de-cabra-y-pinones/0-773-547/tarta-salada-de-remolacha-queso-de-cabra-y-pinones-m.jpg",
     "calification": 5,
@@ -55,7 +54,6 @@
     "time": 45
   },
   {
-    "id":2,
     "name": "Receta de Fajitas de verduras y tofu",
     "img": "https://t1.rg.ltmcdn.com/es/images/0/6/5/fajitas_de_verduras_y_tofu_70560_paso_6_600.jpg",
     "calification": 3,
@@ -112,7 +110,6 @@
     "time": 30
   },
  {
-    "id":3,
     "name": "Receta de Hojaldre de espárragos trigueros",
     "img": "https://cocina-casera.com/wp-content/uploads/2018/11/hojaldre-esparragos-trigeros-770x485.jpg",
     "calification": 3,
@@ -157,7 +154,6 @@
     "time": 30
   },
  {
-    "id":4,
     "name": "Receta de Tacos veganos de coliflor",
     "img": "https://www.piloncilloyvainilla.com/wp-content/uploads/2018/08/tacos-de-coliflor-rostizada-44-of-57-500x500.jpg",
     "calification": 4,
@@ -210,7 +206,6 @@
     "time": 45
   },
 {
-    "id":5,
     "name": "Receta de Gyozas de verduras",
     "img": "https://recetasveganas.net/wp-content/uploads/2020/09/gyozas-verduras-faciles-masa-casera-curry-recetas-veganas5.png",
     "calification": 1,
@@ -270,7 +265,6 @@
     "time": 45
   },
 {
-    "id":6,
     "name": "Receta de Empanadas de jamón, queso y choclo",
     "img": "https://t1.rg.ltmcdn.com/es/images/4/2/4/empanadas_de_jamon_queso_y_choclo_70424_600_square.jpg",
     "calification": 5,
@@ -313,7 +307,6 @@
     "time": 30
   },
 {
-    "id":7,
     "name": "Receta de Pizza de chorizo y queso",
     "img": "https://recetinas.com/wp-content/uploads/2017/09/pizza-de-chorizo.jpg",
     "calification": 3,
@@ -359,7 +352,6 @@
     "time": 45
   },
  {
-    "id":8,
     "name": "Receta de Crema de galletas Oreo con chocolate",
     "img": "https://www.lacocinadealimerka.com/web/uploads/recetas/cremadeoreo.jpg",
     "calification": 2,
@@ -411,7 +403,6 @@
     "time": 45
   },
 {
-    "id":9,
     "name": "Receta de Croquetas de patata y queso",
     "img": "https://www.sortirambnens.com/wp-content/uploads/2015/04/croquetes-de-patata-farcides-de-formatge.jpg",
     "calification": 4,
@@ -460,7 +451,6 @@
     "time": 30
   },
   {
-    "id":10,
     "name": "Receta de Costillas al horno a la barbacoa",
     "img": "https://cdn.recetas360.com/wp-content/uploads/2019/12/como-preparar-costillas-a-la-barbacoa-compressor.jpg",
     "calification": 5,
@@ -486,23 +476,12 @@
       "Si te ha gustado la receta de Costillas al horno a la barbacoa fácil, te sugerimos que entres en nuestra categoría de Recetas de Costillar.",
       "*Receta para 2 personas*"
     ],
-    "quantity": [
-      "4",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1",
-      "1"
-    ],
     "allergens": [
     ],
     "difficulty": "Alta",
     "time": 90
   },
 {
-    "id":11,
     "name": "Receta de Rollos de canela sin huevo",
     "img": "https://cdn.kiwilimon.com/recetaimagen/10374/th5-640x640-3429.jpg",
     "calification": 1,
